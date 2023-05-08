@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><lyc class="html"></lyc></title>
+</head>
+<body style="margin:0;">
+ <div style="background-color: #f1f1f1;
+ text-align: center;
+ padding: 40px;"><img alt="lyc"src="D:\微信图片_20230507160545.jpg"width="80px"height="80px"</div>
+ <div style="max-width: 700px;
+ margin: 30px auto;
+ padding: 15px;
+ line-height: 1.7;">
+    <p>元岛的大家晚上好呀</p>
+    <p>我感觉这编的一般般</p>
+    <p>你们觉得呢？</p></div> 
+ <div style="background-color: #f1f1f1;
+ text-align: center;
+ padding: 40px;
+ font-size: 15px;">
+ <p>图片版权所有<b>米哈游</b></p>
+<a href="D:\微信图片_20230507160545.jpg"class="myaa">钟丽</a>
+</div>   
+</body>
+</html>
